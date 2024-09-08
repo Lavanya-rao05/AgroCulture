@@ -1,4 +1,5 @@
-Agroculture
+#Agroculture
+
 Agroculture is a web-based agriculture management system designed to connect sellers directly with buyers. This platform facilitates the efficient trading of agricultural products through an intuitive interface. Built using PHP, MySQL, and XAMPP, Agroculture aims to streamline transactions and improve accessibility for both buyers and sellers in the agriculture sector.
 
 Features
